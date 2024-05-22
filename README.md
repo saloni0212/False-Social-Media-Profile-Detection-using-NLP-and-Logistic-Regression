@@ -2,7 +2,7 @@
 
 <h2>Overview</h2>
 Fake profile detection is a critical challenge in online social networks because of the proliferation of vindictive and malicious exercises like identity theft, fraud, and misinformation. This project presents an investigation concerning the viability of logistic regression for detecting fake profiles. 
-This project aims to analyze consumer sentiments in Amazon reviews using Natural Language Processing (NLP) techniques. The project compares the performance of three pre-trained transformer models: VADER, RoBERTa, and DistilBERT.<br>
+<br>
 
 <h2>Project Structure</h2>
 Contains the dataset used for sentiment analysis.<br>
